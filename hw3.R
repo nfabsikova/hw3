@@ -80,4 +80,6 @@ ggplot(city_diff_tidy, aes(x=month, y=temp_diff)) +
   facet_grid(name ~ .)
 
 # it's working
+
+# i would put some other kind of plot in here
   
