@@ -82,4 +82,6 @@ ggplot(city_diff_tidy, aes(x=month, y=temp_diff)) +
 # it's working
 
 # i would put some other kind of plot in here
+
+# i don't really understand why is this branch still here
   
